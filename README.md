@@ -1,4 +1,4 @@
-# githubforDevlopers
+# GitHub for Developers Course
 
 #Hello World
 สวัสดีจ้า
